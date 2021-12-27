@@ -25,7 +25,7 @@ int main()
 		iArr[i] = rand() % MAX;
 	}
 	
-	// ╪╠ец а╓╥д
+	// Л└═М┐² Л═∙К═╛
 	for (int i = 0; i < MAX - 1; ++i)
 	{
 		int min = i;
