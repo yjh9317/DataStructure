@@ -16,7 +16,7 @@ int main()
 		iArr[i] = rand() % MAX;
 	}
 
-	// »ðÀÔ Á¤·Ä
+	// ì‚½ìž… ì •ë ¬
 	for (int i = 1; i < MAX; ++i)
 	{
 		int tmp = iArr[i];
